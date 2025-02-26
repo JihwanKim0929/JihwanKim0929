@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/badge/tazanboy2@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 <div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tazanboy2)](https://solved.ac/tazanboy2/)
   
 <h3 align="left">My Github Status <h3>
 
